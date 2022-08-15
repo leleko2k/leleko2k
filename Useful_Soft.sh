@@ -7,5 +7,10 @@ sudo apt-get install net-tools -y
 sudo apt-get install git -y
 sudo apt-get install ncdu -y
 sudo apt-get install htop -y
-sudo apt-get install build-essential libssl-dev gcc make libssl-dev pkg-config npm -y
+sudo apt-get install build-essential -y
+sudo apt-get install libssl-dev -y
+sudo apt-get install gcc -y
+sudo apt-get install make -y
+sudo apt-get install pkg-config -y
+sudo apt-get install npm -y
 echo "Required Soft Installed Successfully"
